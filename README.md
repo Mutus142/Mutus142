@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou o Mateus!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=27C93F&center=true&vCenter=true&width=650&lines=Desenvolvedor+Python+em+evolu%C3%A7%C3%A3o;Apaixonado+por+Tecnologia+e+Dados;Python+%7C+SQL+%7C+Banco+de+Dados;Sempre+aprendendo+algo+novo!" alt="Apresentação animada" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=27C93F&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+evolu%C3%A7%C3%A3o;Apaixonado+por+Tecnologia+e+Dados;Python+%7C+SQL+%7C+Banco+de+Dados;Sempre+aprendendo+algo+novo!" alt="Apresentação animada" />
 
 ### 💻 Tecnologia da Informação | Python | SQL
 
@@ -38,11 +38,10 @@ Desenvolvendo soluções, explorando novas tecnologias e evoluindo um projeto de
 
 <br><br>
 
-**Outros conhecimentos**
+### Outros conhecimentos
 
 ![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 
@@ -54,13 +53,13 @@ Desenvolvendo soluções, explorando novas tecnologias e evoluindo um projeto de
 
 Ferramenta CLI desenvolvida em Python para monitoramento de CPU, memória RAM, disco e rede utilizando a biblioteca `psutil`.
 
-[![PySystemMonitor](https://github-readme-stats.vercel.app/api/pin/?username=Mutus142&repo=PySystemMonitor&theme=tokyonight&hide_border=true)](https://github.com/Mutus142/PySystemMonitor)
+[![PySystemMonitor](https://github-readme-stats-fast.vercel.app/api/pin/?username=Mutus142&repo=PySystemMonitor&theme=tokyonight&hide_border=true)](https://github.com/Mutus142/PySystemMonitor)
 
 ### 🔐 PyAuthDB
 
 Sistema de autenticação desenvolvido em Python, com integração ao MySQL e proteção de senhas utilizando bcrypt.
 
-[![PyAuthDB](https://github-readme-stats.vercel.app/api/pin/?username=Mutus142&repo=PyAuthDB&theme=tokyonight&hide_border=true)](https://github.com/Mutus142/PyAuthDB)
+[![PyAuthDB](https://github-readme-stats-fast.vercel.app/api/pin/?username=Mutus142&repo=PyAuthDB&theme=tokyonight&hide_border=true)](https://github.com/Mutus142/PyAuthDB)
 
 ---
 
@@ -68,9 +67,9 @@ Sistema de autenticação desenvolvido em Python, com integração ao MySQL e pr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mutus142&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Mutus142&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutus142&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mutus142&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
 
 </div>
 
