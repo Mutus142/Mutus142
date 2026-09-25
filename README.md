@@ -1,12 +1,13 @@
+
 <div align="center">
 
 # 👋 Olá, eu sou o Mateus!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=27C93F&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+evolu%C3%A7%C3%A3o;Apaixonado+por+Tecnologia+e+Dados;Python+%7C+SQL+%7C+Banco+de+Dados;Sempre+aprendendo+algo+novo!" alt="Apresentação animada" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=27C93F&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+evolu%C3%A7%C3%A3o;TI+Hospitalar+%7C+Python+%7C+SQL;Apaixonado+por+Tecnologia+e+Dados;Transformando+aprendizado+em+projetos!" alt="Apresentação animada" />
 
-### 💻 Tecnologia da Informação | Python | SQL
+### 💻 TI Hospitalar | Desenvolvimento Python | Banco de Dados
 
-Desenvolvendo soluções, explorando novas tecnologias e evoluindo um projeto de cada vez.
+Desenvolvendo ferramentas, explorando tecnologias e transformando conhecimento em projetos práticos.
 
 </div>
 
@@ -14,11 +15,12 @@ Desenvolvendo soluções, explorando novas tecnologias e evoluindo um projeto de
 
 ## 👨‍💻 Sobre mim
 
-- 🏥 Atuo na área de **TI hospitalar**, trabalhando com suporte, sistemas e banco de dados.
-- 🗄️ Experiência prática com **Oracle Database e SQL**.
-- 🐍 Desenvolvendo projetos em **Python**, com foco em automação e aplicações.
-- 🎓 Futuro estudante de **Análise e Desenvolvimento de Sistemas**.
-- 📚 Interessado em engenharia de dados, desenvolvimento de software e cibersegurança.
+- 🏥 Atuo em **TI hospitalar**, com suporte técnico, sistemas e bancos de dados.
+- 🗄️ Experiência prática com **Oracle Database e SQL**, incluindo consultas e relatórios.
+- 🐍 Desenvolvo projetos em **Python**, explorando automação, monitoramento e integração com bancos de dados.
+- 🎓 Tenho interesse em cursar **Análise e Desenvolvimento de Sistemas**.
+- 📚 Estudo desenvolvimento de software, engenharia de dados, Linux e cibersegurança.
+- 🚀 Utilizo o GitHub para documentar minha evolução e compartilhar meus projetos.
 
 ---
 
@@ -32,16 +34,20 @@ Desenvolvendo soluções, explorando novas tecnologias e evoluindo um projeto de
 
 <br><br>
 
+![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
 ### Ferramentas e ambiente
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" alt="Git, GitHub, VS Code e Windows" />
 
 <br><br>
 
-### Outros conhecimentos
+### Bibliotecas Python
 
-![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![psutil](https://img.shields.io/badge/psutil-Monitoramento-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![winotify](https://img.shields.io/badge/winotify-Notificações-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-Segurança-4B5563?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -51,13 +57,31 @@ Desenvolvendo soluções, explorando novas tecnologias e evoluindo um projeto de
 
 ### 🖥️ PySystemMonitor
 
-Ferramenta CLI desenvolvida em Python para monitoramento de CPU, memória RAM, disco e rede utilizando a biblioteca `psutil`.
+Ferramenta de monitoramento de sistemas desenvolvida em Python para Windows, com interface de linha de comando.
+
+**Funcionalidades desenvolvidas:**
+- Monitoramento de CPU, memória RAM, disco e rede.
+- Coleta de informações do sistema utilizando `psutil`.
+- Monitoramento contínuo com verificações periódicas.
+- Detecção de utilização acima dos limites definidos.
+- Notificações do Windows utilizando `winotify`.
+- Controle para evitar notificações repetidas enquanto um componente permanece acima do limite.
+
+**Tecnologias:** Python, psutil e winotify.
 
 [![PySystemMonitor](https://github-readme-stats-fast.vercel.app/api/pin/?username=Mutus142&repo=PySystemMonitor&theme=tokyonight&hide_border=true)](https://github.com/Mutus142/PySystemMonitor)
 
 ### 🔐 PyAuthDB
 
-Sistema de autenticação desenvolvido em Python, com integração ao MySQL e proteção de senhas utilizando bcrypt.
+Projeto de autenticação desenvolvido em Python, com integração ao MySQL e armazenamento seguro de senhas utilizando bcrypt.
+
+**Funcionalidades:**
+- Cadastro e autenticação de usuários.
+- Integração com banco de dados MySQL.
+- Proteção de senhas com bcrypt.
+- Operações de gerenciamento de usuários.
+
+**Tecnologias:** Python, MySQL e bcrypt.
 
 [![PyAuthDB](https://github-readme-stats-fast.vercel.app/api/pin/?username=Mutus142&repo=PyAuthDB&theme=tokyonight&hide_border=true)](https://github.com/Mutus142/PyAuthDB)
 
@@ -77,19 +101,20 @@ Sistema de autenticação desenvolvido em Python, com integração ao MySQL e pr
 
 ## 📚 Atualmente estudando
 
-- 🐍 Python e estruturas de dados.
-- 🗄️ SQL avançado e administração de bancos de dados.
-- 🐧 Linux e fundamentos de redes.
-- 🔐 Segurança da informação.
-- 📊 Engenharia de dados.
+- 🐍 **Python:** funções, estruturas de dados, organização de código e programação orientada a objetos.
+- 🗄️ **Banco de dados:** SQL avançado, Oracle e MySQL.
+- 🐧 **Linux:** comandos, terminal e administração básica.
+- 🌐 **Redes:** protocolos e fundamentos de infraestrutura.
+- 🔐 **Cibersegurança:** fundamentos de segurança da informação.
+- 📊 **Engenharia de dados:** fundamentos e tecnologias da área.
 
 ---
 
 ## 🎯 Meus objetivos
 
-Aprimorar minhas habilidades em desenvolvimento de software, bancos de dados e segurança da informação, construindo projetos que resolvam problemas reais.
+Evoluir como profissional de tecnologia, aprofundando meus conhecimentos em desenvolvimento de software, bancos de dados e segurança da informação.
 
-Continuar evoluindo profissionalmente e compartilhando meus projetos e aprendizados no GitHub.
+Construir projetos úteis, aplicar meus conhecimentos na prática e documentar minha evolução profissional.
 
 ---
 
