@@ -15,11 +15,11 @@ Desenvolvendo ferramentas, explorando tecnologias e transformando aprendizado em
 ## 👨‍💻 Sobre mim
 
 - 🏥 Atuo há mais de 1 ano em **TI hospitalar**, trabalhando com suporte a sistemas, usuários e acessos.
-- 🗄️ Possuo experiência prática com **Oracle Database e SQL**, desenvolvendo consultas e relatórios em ambiente hospitalar.
-- 🐍 Estudo **Python** e aplico o aprendizado em projetos próprios envolvendo automação, monitoramento de sistemas e integração com bancos de dados.
-- 🎓 Estou concluindo o Ensino Médio e pretendo iniciar graduação em **Análise e Desenvolvimento de Sistemas (ADS)** em 2027.
-- 📚 Tenho interesse em desenvolvimento de software, banco de dados, engenharia de dados, Linux e cibersegurança.
-- 🚀 Utilizo o GitHub para documentar minha evolução e transformar conteúdos estudados em projetos reais.
+- 🗄️ Experiência prática com **Oracle Database e SQL**, incluindo consultas e desenvolvimento de relatórios.
+- 🐍 Desenvolvo projetos em **Python**, explorando automação, monitoramento e integração com bancos de dados.
+- 🎓 Concluindo o Ensino Médio e planejando iniciar **Análise e Desenvolvimento de Sistemas (ADS)** em 2027.
+- 📚 Estudo desenvolvimento de software, banco de dados, Linux, engenharia de dados e cibersegurança.
+- 🚀 Utilizo o GitHub para documentar minha evolução e compartilhar meus projetos.
 
 ---
 
@@ -36,13 +36,11 @@ Desenvolvendo ferramentas, explorando tecnologias e transformando aprendizado em
 ![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
-### Ferramentas e ambiente
+### Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" alt="Git, GitHub, VS Code e Windows" />
 
 <br><br>
-
-### Bibliotecas Python utilizadas em projetos
 
 ![psutil](https://img.shields.io/badge/psutil-Monitoramento-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![winotify](https://img.shields.io/badge/winotify-Notificações-0078D4?style=for-the-badge&logo=windows&logoColor=white)
@@ -56,46 +54,31 @@ Desenvolvendo ferramentas, explorando tecnologias e transformando aprendizado em
 
 ### 🖥️ PySystemMonitor
 
-Ferramenta de monitoramento de sistemas desenvolvida em Python para Windows, com interface de linha de comando e arquitetura dividida em módulos.
+Ferramenta de monitoramento de sistemas desenvolvida em Python para Windows.
 
-**Funcionalidades desenvolvidas:**
-- Monitoramento de CPU, memória RAM, disco e rede.
-- Análise geral dos principais recursos do computador.
-- Coleta de informações do sistema utilizando `psutil`.
-- Exibição de data e horário das análises utilizando `datetime`.
-- Monitoramento contínuo com verificações periódicas.
-- Sistema de limites para CPU, RAM e disco.
-- Detecção de utilização acima dos limites definidos.
-- Notificações nativas do Windows utilizando `winotify`.
-- Controle para evitar notificações repetidas enquanto um recurso permanece acima do limite.
-- Menus interativos e tratamento de entradas inválidas.
-- Código organizado em diferentes módulos de monitoramento e utilidades.
+**Principais funcionalidades:**
+- Monitoramento de CPU, RAM, disco e rede.
+- Análise geral dos recursos do sistema.
+- Monitoramento contínuo utilizando `psutil`.
+- Sistema de limites de utilização.
+- Alertas e notificações do Windows com `winotify`.
+- Registro de data e horário das análises.
+- Organização modular do código.
 
-**Em desenvolvimento:**
-- Integração completa entre limites personalizados e sistema de alertas.
-- Persistência das configurações.
-- Monitoramento e ranking de processos do sistema.
-- Histórico de análises.
-- Exportação de relatórios.
-
-**Tecnologias:** Python, psutil, winotify, datetime e time.
+**Tecnologias:** Python, psutil, winotify e datetime.
 
 [![PySystemMonitor](https://github-readme-stats-fast.vercel.app/api/pin/?username=Mutus142&repo=PySystemMonitor&theme=tokyonight&hide_border=true)](https://github.com/Mutus142/PySystemMonitor)
 
----
-
 ### 🔐 PyAuthDB
 
-Sistema de autenticação desenvolvido em Python com integração ao MySQL, criado para praticar banco de dados, validação de usuários e segurança de senhas.
+Sistema de autenticação desenvolvido em Python com integração ao MySQL.
 
-**Funcionalidades:**
-- Cadastro de usuários.
-- Autenticação e login.
-- Integração entre Python e MySQL.
-- Armazenamento seguro de senhas utilizando `bcrypt`.
-- Consulta de usuários cadastrados.
-- Exclusão e gerenciamento de registros.
-- Validações e tratamento de entradas.
+**Principais funcionalidades:**
+- Cadastro e autenticação de usuários.
+- Integração com banco de dados MySQL.
+- Proteção de senhas utilizando `bcrypt`.
+- Consulta e gerenciamento de usuários.
+- Validação e tratamento de entradas.
 
 **Tecnologias:** Python, MySQL e bcrypt.
 
@@ -103,96 +86,13 @@ Sistema de autenticação desenvolvido em Python com integração ao MySQL, cria
 
 ---
 
-### 🧮 CalcForge
+## 🧠 Conhecimentos
 
-Calculadora modular desenvolvida em Python como projeto prático após a conclusão dos estudos de fundamentos da linguagem.
+**Python:** funções, estruturas de dados, tratamento de exceções, modularização, arquivos, POO, JSON, APIs e fundamentos de regex.
 
-**Funcionalidades:**
-- Soma.
-- Subtração.
-- Multiplicação.
-- Divisão.
-- Potenciação.
-- Menus interativos no terminal.
-- Tratamento de entradas inválidas.
-- Tratamento de divisão por zero.
-- Estrutura dividida em diferentes módulos.
+**SQL:** consultas, JOINs, funções de agregação, GROUP BY, HAVING, CASE WHEN, subqueries, CTEs, UNION e tratamento de valores nulos.
 
-**Conceitos aplicados:**
-- Funções.
-- Parâmetros e argumentos.
-- `return`.
-- Estruturas condicionais.
-- Loops.
-- Tratamento de exceções.
-- Imports e modularização.
-
-**Tecnologias:** Python.
-
-[![CalcForge](https://github-readme-stats-fast.vercel.app/api/pin/?username=Mutus142&repo=CalcForge&theme=tokyonight&hide_border=true)](https://github.com/Mutus142/CalcForge)
-
----
-
-## 🧠 Conhecimentos em Python
-
-Atualmente venho consolidando os fundamentos da linguagem através de estudos e projetos práticos.
-
-```text
-Python
-├── Variáveis e tipos de dados
-├── Operadores
-├── Condicionais
-│   ├── if
-│   ├── elif
-│   └── else
-├── Estruturas de repetição
-│   ├── for
-│   ├── while
-│   ├── break
-│   └── continue
-├── Estruturas de dados
-│   ├── listas
-│   ├── tuplas
-│   ├── dicionários
-│   └── sets
-├── Funções
-│   ├── parâmetros
-│   ├── argumentos
-│   ├── parâmetros opcionais
-│   ├── return
-│   └── escopo local e global
-├── Tratamento de exceções
-│   ├── try
-│   └── except
-├── Arquivos
-├── Módulos e bibliotecas
-├── POO
-│   ├── classes
-│   └── objetos
-├── APIs e JSON
-└── Expressões regulares
-```
-
-Meu foco atual é aprofundar esses conceitos através da prática e melhorar a organização, modularização e estrutura dos projetos.
-
----
-
-## 💼 Experiência com SQL
-
-Além dos projetos pessoais, utilizo SQL em ambiente profissional.
-
-Tenho contato com:
-
-- Consultas utilizando `SELECT`, `WHERE` e `ORDER BY`.
-- `JOIN` entre tabelas.
-- Funções de agregação.
-- `GROUP BY` e `HAVING`.
-- `CASE WHEN`.
-- Subqueries e CTEs.
-- `UNION`.
-- Tratamento de valores nulos.
-- Desenvolvimento e manutenção de relatórios.
-- Oracle Database.
+**Banco de dados:** experiência prática com Oracle Database em ambiente profissional e MySQL em projetos pessoais.
 
 ---
 
@@ -210,33 +110,17 @@ Tenho contato com:
 
 ## 📚 Atualmente estudando
 
-- 🐍 **Python:** aprofundamento em funções, escopo, estruturas de dados, tratamento de erros, arquivos, modularização e orientação a objetos.
-- 🗄️ **Banco de dados:** SQL, Oracle Database e MySQL.
-- 🐧 **Linux:** terminal, comandos e fundamentos do sistema.
-- 🌐 **Redes:** fundamentos de redes e infraestrutura.
+- 🐍 **Python:** aprofundamento dos fundamentos e programação orientada a objetos.
+- 🗄️ **Banco de dados:** SQL, Oracle e MySQL.
+- 🐧 **Linux e infraestrutura:** terminal, redes e administração básica.
 - 🔐 **Cibersegurança:** fundamentos de segurança da informação.
-- 📊 **Engenharia de dados:** explorando conceitos e tecnologias da área.
-- 🧩 **Desenvolvimento de projetos:** transformando conteúdos estudados em aplicações práticas.
+- 📊 **Engenharia de dados:** conceitos e tecnologias da área.
 
 ---
 
-## 🎯 Próximos passos
+## 🎯 Objetivos
 
-- Aprofundar meus conhecimentos em Python.
-- Evoluir o PySystemMonitor com novas funcionalidades.
-- Desenvolver projetos utilizando persistência de dados.
-- Aprimorar meus conhecimentos em SQL e bancos de dados.
-- Estudar Linux e fundamentos de infraestrutura.
-- Explorar engenharia de dados e cibersegurança.
-- Iniciar graduação em Análise e Desenvolvimento de Sistemas.
-
----
-
-## 🎯 Objetivo
-
-Continuar evoluindo como profissional de tecnologia, aprofundando meus conhecimentos em desenvolvimento de software e bancos de dados.
-
-Meu objetivo é transformar cada novo conteúdo estudado em experiência prática, construindo projetos úteis e documentando minha evolução profissional.
+Continuar evoluindo em desenvolvimento de software e bancos de dados, aplicando novos conhecimentos em projetos práticos e me preparando para iniciar **Análise e Desenvolvimento de Sistemas em 2027**.
 
 ---
 
