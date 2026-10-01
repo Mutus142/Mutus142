@@ -1,9 +1,8 @@
-<!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:27C93F&text=Mateus%20Ribeiro&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Desenvolvimento%20%7C%20Dados%20%7C%20Tecnologia&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,55:161B22,100:22C55E&text=Mateus%20Ribeiro&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Desenvolvimento%20%7C%20Dados%20%7C%20Tecnologia&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=27C93F&center=true&vCenter=true&width=750&lines=TI+Hospitalar+%7C+Python+%7C+SQL;Transformando+aprendizado+em+projetos;Explorando+Software%2C+Dados+e+Sistemas;Sempre+buscando+evoluir+um+pouco+mais!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=27C93F&center=true&vCenter=true&width=760&lines=TI+Hospitalar+%7C+Python+%7C+SQL;Transformando+aprendizado+em+projetos;Explorando+Software%2C+Dados+e+Sistemas;Sempre+buscando+evoluir!" alt="Typing SVG" />
 
 <br>
 
@@ -30,19 +29,19 @@ mateus = {
 }
 ```
 
-🏥 Atuo há mais de **1 ano em TI hospitalar**, trabalhando com suporte a sistemas, gerenciamento de usuários, acessos e soluções internas.
+🏥 Atuo há mais de **1 ano em TI hospitalar**, trabalhando com suporte a sistemas, usuários, acessos e soluções internas.
 
-🗄️ Tenho experiência prática com **Oracle Database e SQL**, desenvolvendo consultas e relatórios utilizados em ambiente profissional.
+🗄️ Possuo experiência prática com **Oracle Database e SQL**, desenvolvendo consultas e relatórios em ambiente profissional.
 
 🐍 Em Python, desenvolvo projetos voltados para **automação, monitoramento de sistemas, bancos de dados e aplicações CLI**.
 
 🎓 Estou concluindo o Ensino Médio e pretendo iniciar **Análise e Desenvolvimento de Sistemas (ADS)** em 2027.
 
-🚀 Uso o GitHub como registro da minha evolução, aplicando o que estudo em projetos práticos.
+🚀 Utilizo o GitHub para documentar minha evolução e transformar meus estudos em projetos práticos.
 
 ---
 
-# ⚡ Stack & Ferramentas
+## ⚡ Stack & Ferramentas
 
 <div align="center">
 
@@ -68,7 +67,7 @@ mateus = {
 
 <br><br>
 
-### 📦 Bibliotecas que já utilizei
+### 📦 Bibliotecas
 
 ![psutil](https://img.shields.io/badge/psutil-Monitoramento-3776AB?style=flat-square&logo=python&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/bcrypt-Segurança-4B5563?style=flat-square&logo=python&logoColor=white)
@@ -78,22 +77,20 @@ mateus = {
 
 ---
 
-# 🚀 Projetos em destaque
+## 🚀 Projetos em destaque
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-## 🖥️ PySystemMonitor
+### 🖥️ PySystemMonitor
 
 Monitor de recursos do sistema desenvolvido em Python para Windows.
 
-### ⚙️ Recursos
+**Funcionalidades**
 
-- Monitoramento de CPU
-- Monitoramento de RAM
-- Uso de disco
-- Estatísticas de rede
+- CPU, RAM, disco e rede
 - Análise geral do computador
 - Monitoramento de processos
 - PID, nome e consumo de RAM
@@ -102,7 +99,7 @@ Monitor de recursos do sistema desenvolvido em Python para Windows.
 - Limites configuráveis
 - Alertas do Windows
 
-### 🧰 Tecnologias
+**Tecnologias**
 
 `Python` `psutil` `winotify` `datetime` `platform`
 
@@ -110,44 +107,44 @@ Monitor de recursos do sistema desenvolvido em Python para Windows.
 
 <td width="50%" valign="top">
 
-## 🔐 PyAuthDB
+### 🔐 PyAuthDB
 
-Sistema de autenticação desenvolvido em Python integrado ao MySQL.
+Sistema de autenticação em Python integrado ao MySQL.
 
-### ⚙️ Recursos
+**Funcionalidades**
 
 - Cadastro de usuários
 - Sistema de login
 - Integração com MySQL
-- Hash de senhas
-- Proteção utilizando bcrypt
+- Hash e proteção de senhas
 - Consulta de usuários
 - Gerenciamento de registros
 - Tratamento de entradas
 
-### 🧰 Tecnologias
+**Tecnologias**
 
 `Python` `MySQL` `bcrypt`
 
 </td>
+
 </tr>
 </table>
 
 <div align="center">
 
 <a href="https://github.com/Mutus142/PySystemMonitor">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Mutus142&repo=PySystemMonitor&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Mutus142&repo=PySystemMonitor&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Mutus142/PyAuthDB">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Mutus142&repo=PyAuthDB&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Mutus142&repo=PyAuthDB&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
 
 ---
 
-# 🧠 Conhecimentos
+## 🧠 Conhecimentos
 
 ### 🐍 Python
 
@@ -155,87 +152,78 @@ Sistema de autenticação desenvolvido em Python integrado ao MySQL.
 
 ### 🗄️ SQL
 
-`SELECT` `JOIN` `GROUP BY` `HAVING` `CASE WHEN` `Subqueries` `CTEs` `UNION` `Funções de Agregação`
+`SELECT` `JOIN` `GROUP BY` `HAVING` `CASE WHEN` `Subqueries` `CTEs` `UNION` `Agregações`
 
 ### 💾 Banco de Dados
 
 **Oracle Database** — utilização em ambiente profissional.
 
-**MySQL** — utilização em projetos pessoais e integração com Python.
+**MySQL** — integração com Python e utilização em projetos pessoais.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Mutus142&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="175" src="https://github-readme-stats-fast.vercel.app/api?username=Mutus142&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mutus142&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mutus142&theme=tokyonight&hide_border=true" />
+<img height="175" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mutus142&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 📈 Atividade
+## 📚 Atualmente estudando
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mutus142&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mutus142&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
----
-
-# 📚 Atualmente estudando
-
-<div align="center">
-
-| Área | Foco atual |
+| Área | Foco |
 |:---|:---|
-| 🐍 **Python** | Programação avançada e POO |
+| 🐍 **Python** | Python avançado e POO |
 | 🗄️ **Banco de Dados** | SQL, Oracle e MySQL |
-| 🐧 **Linux** | Terminal e administração básica |
+| 🐧 **Linux** | Terminal e administração |
 | 🌐 **Redes** | Fundamentos de infraestrutura |
-| 🔐 **Cibersegurança** | Fundamentos de segurança |
-| 📊 **Dados** | Conceitos de Engenharia de Dados |
+| 🔐 **Cibersegurança** | Segurança da informação |
+| 📊 **Dados** | Engenharia de Dados |
 
 </div>
 
 ---
 
-# 🎯 Próximos passos
+## 🎯 Roadmap
+
+<div align="center">
 
 ```text
-2026 ──────────────────────────────────────────────► 2027
+                    EVOLUÇÃO
 
- Python avançado        Projetos maiores             ADS
-      │                       │                       │
-      ▼                       ▼                       ▼
- Banco de Dados  ──►  Sistemas + Dados  ──►  Faculdade
+2026                                               2027
+ │                                                   │
+ ├── Python Avançado                                 │
+ │                                                   │
+ ├── Projetos maiores                                │
+ │                                                   │
+ ├── Banco de Dados                                  │
+ │                                                   │
+ ├── Linux / Redes                                   │
+ │                                                   │
+ └──────────────► Sistemas + Dados ───────────────► ADS
 ```
 
-Meu objetivo é continuar evoluindo em **desenvolvimento de software e banco de dados**, criando projetos cada vez mais completos e utilizando o conhecimento adquirido em situações reais.
+</div>
+
+Meu objetivo é continuar evoluindo em **desenvolvimento de software e banco de dados**, aplicando os conhecimentos adquiridos em projetos cada vez mais completos.
 
 ---
 
-# 🌐 Contato
+## 🌐 Contato
 
 <div align="center">
+
+<a href="mailto:mateus08142@gmail.com">
+<img src="https://img.shields.io/badge/Email-mateus08142%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://github.com/Mutus142">
 <img src="https://img.shields.io/badge/GitHub-Mutus142-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -243,12 +231,10 @@ Meu objetivo é continuar evoluindo em **desenvolvimento de software e banco de 
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Mutus142&color=27C93F&style=for-the-badge&label=VISITAS+AO+PERFIL"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=27C93F&center=true&vCenter=true&width=650&lines=💚+Transformando+conhecimento+em+código;Um+projeto+de+cada+vez..." />
 
-<br><br>
+<br>
 
-### 💚 `Transformando conhecimento em código, um projeto de cada vez.`
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:161B22,100:27C93F&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D1117,50:161B22,100:22C55E&section=footer"/>
 
 </div>
