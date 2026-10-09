@@ -26,7 +26,7 @@ mateus = {
     "atuacao": "TI Hospitalar",
     "foco": ["Python", "SQL", "Banco de Dados"],
     "databases": ["Oracle", "MySQL", "PostgreSQL"],
-    "sistema": "openSUSE Linux",
+    "sistema": "openSUSE Tumbleweed",
     "estudando": ["POO", "Linux", "Redes", "Cibersegurança"],
     "proximo_passo": "Análise e Desenvolvimento de Sistemas — 2027",
     "objetivo": "Transformar conhecimento em projetos reais"
@@ -39,7 +39,7 @@ mateus = {
 
 🐍 Desenvolvo projetos em **Python**, explorando automação, monitoramento de sistemas, bancos de dados e aplicações de terminal.
 
-🐧 Atualmente utilizo **openSUSE Linux** como meu sistema principal, aprofundando meus conhecimentos em terminal, comandos e administração de sistemas.
+🐧 Atualmente utilizo **openSUSE Tumbleweed** como sistema operacional principal, aprofundando meus conhecimentos em terminal, comandos Linux e administração de sistemas.
 
 🎓 Estou concluindo o Ensino Médio e pretendo iniciar **Análise e Desenvolvimento de Sistemas (ADS)** em 2027.
 
@@ -51,23 +51,20 @@ mateus = {
 
 <div align="center">
 
-### 💻 Linguagens
+### Linguagens
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
 <br><br>
 
-![SQL](https://img.shields.io/badge/SQL-Consultas_e_Relatórios-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### Banco de Dados
 
-### 🗄️ Bancos de Dados
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL e MySQL" />
+<img src="https://cdn.simpleicons.org/oracle/F80000" width="48" height="48" alt="Oracle Database" />
 
 <br><br>
 
-![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### 🛠️ Ferramentas e Sistemas
+### Ferramentas e Sistemas
 
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&theme=dark" />
 
@@ -75,7 +72,9 @@ mateus = {
 
 ![openSUSE Tumbleweed](https://img.shields.io/badge/openSUSE-Tumbleweed-73BA25?style=for-the-badge&logo=opensuse&logoColor=white)
 
-### 📦 Bibliotecas e Tecnologias
+<br><br>
+
+### Bibliotecas e Tecnologias
 
 ![psutil](https://img.shields.io/badge/psutil-Monitoramento-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Psycopg](https://img.shields.io/badge/Psycopg-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -91,16 +90,16 @@ mateus = {
 
 ### 🧩 TaskForge — Em desenvolvimento
 
-Gerenciador de tarefas desenvolvido em **Python**, com interface de terminal e integração com **PostgreSQL**.
+Gerenciador de tarefas em Python, desenvolvido para terminal, com integração ao PostgreSQL.
 
 **Objetivos e recursos**
 
-- Organização de tarefas por prioridade
-- Cadastro, consulta e gerenciamento de tarefas
+- Cadastro e organização de tarefas por prioridade
+- Consulta e gerenciamento de tarefas
 - Persistência de dados em PostgreSQL
 - Estrutura modular em Python
-- Conexão com banco utilizando Psycopg
-- Configuração de credenciais com variáveis de ambiente
+- Conexão ao banco com Psycopg
+- Gerenciamento de credenciais com variáveis de ambiente
 
 **Tecnologias**
 
@@ -185,19 +184,19 @@ Sistema de autenticação em Python integrado ao MySQL.
 
 `SELECT` `JOIN` `GROUP BY` `HAVING` `CASE WHEN` `Subqueries` `CTEs` `UNION` `Agregações`
 
-### 💾 Bancos de Dados
+### 💾 Banco de Dados
 
 **Oracle Database** — consultas e relatórios em ambiente profissional.
 
 **MySQL** — integração com Python e utilização em projetos pessoais.
 
-**PostgreSQL** — configuração de ambiente, consultas e integração com Python no projeto TaskForge.
+**PostgreSQL** — configuração de ambiente, consultas e integração com Python no TaskForge.
 
 ### 🐧 Linux
 
 **openSUSE Tumbleweed** — sistema principal utilizado para programação, estudos e desenvolvimento de projetos.
 
-**Em aprendizado:** terminal, comandos Linux, Bash, gerenciamento de pacotes e administração de sistemas.
+**Em aprendizado:** terminal, Bash, gerenciamento de pacotes, permissões e administração de sistemas.
 
 ---
 
@@ -225,11 +224,11 @@ Sistema de autenticação em Python integrado ao MySQL.
 
 | Área | Foco |
 |:---|:---|
-| 🐍 **Python** | Python avançado, POO e projetos práticos |
+| 🐍 **Python** | Python avançado e Programação Orientada a Objetos |
 | 🗄️ **Banco de Dados** | PostgreSQL, SQL e Oracle |
 | 🐧 **Linux** | openSUSE, terminal e administração |
 | 🌐 **Redes** | Fundamentos de redes e infraestrutura |
-| 🔐 **Cibersegurança** | Fundamentos de segurança da informação |
+| 🔐 **Cibersegurança** | Segurança da informação e fundamentos de defesa |
 | 📊 **Dados** | Modelagem e engenharia de dados |
 
 </div>
