@@ -59,10 +59,12 @@ mateus = {
 
 ### Banco de Dados
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL e MySQL" />
-<img src="https://cdn.simpleicons.org/oracle/F80000" width="48" height="48" alt="Oracle Database" />
+<div align="center">
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL e MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
+
+</div>
 
 ### Ferramentas e Sistemas
 
