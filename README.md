@@ -1,15 +1,17 @@
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,55:161B22,100:22C55E&text=Mateus%20Ribeiro&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Desenvolvimento%20%7C%20Dados%20%7C%20Tecnologia&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=27C93F&center=true&vCenter=true&width=760&lines=TI+Hospitalar+%7C+Python+%7C+SQL;Transformando+aprendizado+em+projetos;Explorando+Software%2C+Dados+e+Sistemas;Sempre+buscando+evoluir!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=27C93F&center=true&vCenter=true&width=850&lines=TI+Hospitalar+%7C+Python+%7C+SQL;Linux+%7C+PostgreSQL+%7C+Oracle;Transformando+aprendizado+em+projetos;Explorando+Software%2C+Dados+e+Ciberseguranca" alt="Typing SVG" />
 
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=flat-square&logo=opensuse&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
@@ -20,24 +22,28 @@
 
 ```python
 mateus = {
-    "área": "Tecnologia da Informação",
-    "atuação": "TI Hospitalar",
+    "area": "Tecnologia da Informação",
+    "atuacao": "TI Hospitalar",
     "foco": ["Python", "SQL", "Banco de Dados"],
-    "database": ["Oracle", "MySQL"],
-    "próximo_passo": "Análise e Desenvolvimento de Sistemas — 2027",
+    "databases": ["Oracle", "MySQL", "PostgreSQL"],
+    "sistema": "openSUSE Linux",
+    "estudando": ["POO", "Linux", "Redes", "Cibersegurança"],
+    "proximo_passo": "Análise e Desenvolvimento de Sistemas — 2027",
     "objetivo": "Transformar conhecimento em projetos reais"
 }
 ```
 
-🏥 Atuo há mais de **1 ano em TI hospitalar**, trabalhando com suporte a sistemas, usuários, acessos e soluções internas.
+🏥 Atuo há mais de **1 ano em TI hospitalar**, trabalhando com suporte a sistemas, gestão de usuários e acessos, manutenção de recursos no **Tasy** e desenvolvimento de relatórios em SQL.
 
-🗄️ Possuo experiência prática com **Oracle Database e SQL**, desenvolvendo consultas e relatórios em ambiente profissional.
+🗄️ Tenho experiência prática com **Oracle Database** no ambiente profissional e utilizo **MySQL e PostgreSQL** em projetos pessoais.
 
-🐍 Em Python, desenvolvo projetos voltados para **automação, monitoramento de sistemas, bancos de dados e aplicações CLI**.
+🐍 Desenvolvo projetos em **Python**, explorando automação, monitoramento de sistemas, bancos de dados e aplicações de terminal.
+
+🐧 Atualmente utilizo **openSUSE Linux** como meu sistema principal, aprofundando meus conhecimentos em terminal, comandos e administração de sistemas.
 
 🎓 Estou concluindo o Ensino Médio e pretendo iniciar **Análise e Desenvolvimento de Sistemas (ADS)** em 2027.
 
-🚀 Utilizo o GitHub para documentar minha evolução e transformar meus estudos em projetos práticos.
+🚀 Utilizo o GitHub para documentar minha evolução, compartilhar projetos e acompanhar meu desenvolvimento na área de tecnologia.
 
 ---
 
@@ -47,37 +53,62 @@ mateus = {
 
 ### 💻 Linguagens
 
-<img src="https://skillicons.dev/icons?i=python,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
 <br><br>
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Consultas_e_Relatórios-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🗄️ Banco de Dados
+### 🗄️ Bancos de Dados
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
 
 <br><br>
 
 ![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🛠️ Ferramentas
+### 🛠️ Ferramentas e Sistemas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&theme=dark" />
 
 <br><br>
 
-### 📦 Bibliotecas
+![openSUSE Tumbleweed](https://img.shields.io/badge/openSUSE-Tumbleweed-73BA25?style=for-the-badge&logo=opensuse&logoColor=white)
+
+### 📦 Bibliotecas e Tecnologias
 
 ![psutil](https://img.shields.io/badge/psutil-Monitoramento-3776AB?style=flat-square&logo=python&logoColor=white)
+![Psycopg](https://img.shields.io/badge/Psycopg-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/bcrypt-Segurança-4B5563?style=flat-square&logo=python&logoColor=white)
-![winotify](https://img.shields.io/badge/winotify-Notificações-0078D4?style=flat-square&logo=windows&logoColor=white)
+![python-dotenv](https://img.shields.io/badge/python--dotenv-Configuração-3776AB?style=flat-square&logo=python&logoColor=white)
+![winotify](https://img.shields.io/badge/winotify-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 </div>
 
 ---
 
 ## 🚀 Projetos em destaque
+
+### 🧩 TaskForge — Em desenvolvimento
+
+Gerenciador de tarefas desenvolvido em **Python**, com interface de terminal e integração com **PostgreSQL**.
+
+**Objetivos e recursos**
+
+- Organização de tarefas por prioridade
+- Cadastro, consulta e gerenciamento de tarefas
+- Persistência de dados em PostgreSQL
+- Estrutura modular em Python
+- Conexão com banco utilizando Psycopg
+- Configuração de credenciais com variáveis de ambiente
+
+**Tecnologias**
+
+`Python` `PostgreSQL` `Psycopg` `Git` `Linux`
+
+[![TaskForge](https://img.shields.io/badge/Ver_repositório-TaskForge-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mutus142/TaskForge)
+
+<br>
 
 <table>
 <tr>
@@ -148,17 +179,25 @@ Sistema de autenticação em Python integrado ao MySQL.
 
 ### 🐍 Python
 
-`Funções` `Estruturas de Dados` `POO` `Try / Except` `Arquivos` `JSON` `APIs` `Regex` `Modularização`
+`Funções` `Estruturas de Dados` `POO (em estudo)` `Try / Except` `Arquivos` `JSON` `APIs` `Regex` `Modularização`
 
 ### 🗄️ SQL
 
 `SELECT` `JOIN` `GROUP BY` `HAVING` `CASE WHEN` `Subqueries` `CTEs` `UNION` `Agregações`
 
-### 💾 Banco de Dados
+### 💾 Bancos de Dados
 
-**Oracle Database** — utilização em ambiente profissional.
+**Oracle Database** — consultas e relatórios em ambiente profissional.
 
 **MySQL** — integração com Python e utilização em projetos pessoais.
+
+**PostgreSQL** — configuração de ambiente, consultas e integração com Python no projeto TaskForge.
+
+### 🐧 Linux
+
+**openSUSE Tumbleweed** — sistema principal utilizado para programação, estudos e desenvolvimento de projetos.
+
+**Em aprendizado:** terminal, comandos Linux, Bash, gerenciamento de pacotes e administração de sistemas.
 
 ---
 
@@ -170,6 +209,12 @@ Sistema de autenticação em Python integrado ao MySQL.
 
 <img height="175" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mutus142&layout=compact&theme=tokyonight&hide_border=true" />
 
+<br><br>
+
+### 📈 Atividade no GitHub
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mutus142&theme=github-compact&hide_border=true&color=22C55E&line=22C55E&point=FFFFFF" />
+
 </div>
 
 ---
@@ -180,11 +225,19 @@ Sistema de autenticação em Python integrado ao MySQL.
 
 | Área | Foco |
 |:---|:---|
-| 🐍 **Python** | Python avançado e POO |
-| 🗄️ **Banco de Dados** | SQL, Oracle e MySQL |
-| 🐧 **Linux** | Terminal e administração |
-| 🌐 **Redes** | Fundamentos de infraestrutura |
-| 🔐 **Cibersegurança** | Segurança da informação |
-| 📊 **Dados** | Engenharia de Dados |
+| 🐍 **Python** | Python avançado, POO e projetos práticos |
+| 🗄️ **Banco de Dados** | PostgreSQL, SQL e Oracle |
+| 🐧 **Linux** | openSUSE, terminal e administração |
+| 🌐 **Redes** | Fundamentos de redes e infraestrutura |
+| 🔐 **Cibersegurança** | Fundamentos de segurança da informação |
+| 📊 **Dados** | Modelagem e engenharia de dados |
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,55:161B22,100:22C55E" />
 
 </div>
