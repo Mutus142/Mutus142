@@ -60,8 +60,6 @@ mateus = {
 
 <br><br>
 
-> 🟨 JavaScript — atualmente em aprendizado
-
 ### Banco de Dados
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL e MySQL" />
@@ -72,8 +70,6 @@ mateus = {
 ### Ferramentas e Sistemas
 
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,nodejs&theme=dark" alt="Linux, Bash, Git, GitHub, VS Code e Node.js" />
-
-<br><br>
 
 ![openSUSE Tumbleweed](https://img.shields.io/badge/openSUSE-Tumbleweed-73BA25?style=for-the-badge&logo=opensuse&logoColor=white)
 
@@ -201,4 +197,3 @@ Atualmente desenvolvendo meus conhecimentos em JavaScript, com foco em lógica, 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,55:161B22,100:22C55E" />
 
 </div>
-```
