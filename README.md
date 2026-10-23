@@ -2,11 +2,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,55:161B22,100:22C55E&text=Mateus%20Ribeiro&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Desenvolvimento%20%7C%20Dados%20%7C%20Tecnologia&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=27C93F&center=true&vCenter=true&width=850&lines=TI+Hospitalar+%7C+Python+%7C+SQL;Linux+%7C+PostgreSQL+%7C+Oracle;Transformando+aprendizado+em+projetos;Explorando+Software%2C+Dados+e+Ciberseguranca" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=27C93F&center=true&vCenter=true&width=850&lines=TI+Hospitalar+%7C+Python+%7C+SQL;Linux+%7C+PostgreSQL+%7C+Oracle;JavaScript+%7C+Node.js+%7C+Em+Aprendizado;Transformando+aprendizado+em+projetos;Explorando+Software%2C+Dados+e+Ciberseguranca" alt="Typing SVG" />
 
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Em%20Aprendizado-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
@@ -24,14 +25,14 @@ mateus = {
     "area": "Tecnologia da Informação",
     "atuacao": "TI Hospitalar",
     "foco": ["Python", "SQL", "Banco de Dados"],
+    "linguagens": ["Python", "SQL", "JavaScript (em estudo)"],
     "databases": ["Oracle", "MySQL", "PostgreSQL"],
     "sistema": "openSUSE Tumbleweed",
-    "estudando": ["POO", "Linux", "Redes", "Cibersegurança"],
+    "estudando": ["JavaScript", "Node.js", "Linux", "Redes", "Cibersegurança"],
     "proximo_passo": "Análise e Desenvolvimento de Sistemas — 2027",
     "objetivo": "Transformar conhecimento em projetos reais"
 }
 ```
-
 
 🏥 Atuo há mais de **1 ano em TI hospitalar**, trabalhando com suporte a sistemas, gestão de usuários e acessos, manutenção de recursos no **Tasy** e desenvolvimento de relatórios em SQL.
 
@@ -39,7 +40,9 @@ mateus = {
 
 🐍 Desenvolvo projetos em **Python**, explorando automação, monitoramento de sistemas, bancos de dados e aplicações de terminal.
 
-🐧 Atualmente utilizo **openSUSE Tumbleweed** como sistema operacional principal, aprofundando meus conhecimentos em terminal, comandos Linux e administração de sistemas.
+🟨 Atualmente estou aprendendo **JavaScript e Node.js**, explorando lógica de programação, estruturas condicionais, modularização e desenvolvimento de aplicações executadas no terminal.
+
+🐧 Utilizo **openSUSE Tumbleweed** como sistema operacional principal, aprofundando meus conhecimentos em terminal, comandos Linux e administração de sistemas.
 
 🎓 Estou concluindo o Ensino Médio e pretendo iniciar **Análise e Desenvolvimento de Sistemas (ADS)** em 2027.
 
@@ -53,22 +56,22 @@ mateus = {
 
 ### Linguagens
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js&theme=dark" alt="Python e JavaScript" />
 
 <br><br>
 
-### Banco de Dados
+> 🟨 JavaScript — atualmente em aprendizado
 
-<div align="center">
+### Banco de Dados
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL e MySQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
 
-</div>
+<br><br>
 
 ### Ferramentas e Sistemas
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,nodejs&theme=dark" alt="Linux, Bash, Git, GitHub, VS Code e Node.js" />
 
 <br><br>
 
@@ -83,6 +86,7 @@ mateus = {
 ![bcrypt](https://img.shields.io/badge/bcrypt-Segurança-4B5563?style=flat-square&logo=python&logoColor=white)
 ![python-dotenv](https://img.shields.io/badge/python--dotenv-Configuração-3776AB?style=flat-square&logo=python&logoColor=white)
 ![winotify](https://img.shields.io/badge/winotify-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Em%20Aprendizado-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </div>
 
@@ -119,10 +123,12 @@ Python · psutil · winotify · datetime · platform
 
 Gerenciador de tarefas em Python para terminal, com persistência de dados no PostgreSQL.
 
-**Recursos e objetivos**
+**Funcionalidades**
 
 - Cadastro e organização de tarefas por prioridade
-- Consulta e gerenciamento de tarefas
+- Gerenciamento de tarefas por usuário
+- Edição, conclusão e remoção de tarefas
+- Estatísticas de tarefas
 - Persistência de dados em PostgreSQL
 - Estrutura modular em Python
 - Conexão ao banco com Psycopg
@@ -144,11 +150,17 @@ Python · PostgreSQL · Psycopg · Git · Linux
 
 ### 🐍 Python
 
-Funções Estruturas de Dados POO (em estudo) Try / Except Arquivos JSON APIs Regex Modularização
+`Funções` `Estruturas de Dados` `POO` `Try / Except` `Arquivos` `JSON` `APIs` `Regex` `Modularização`
+
+### 🟨 JavaScript — Em aprendizado
+
+`Variáveis` `Operadores` `Condicionais` `Funções (em estudo)` `Node.js` `Aplicações CLI`
+
+Atualmente desenvolvendo meus conhecimentos em JavaScript, com foco em lógica, fundamentos da linguagem e criação de aplicações práticas utilizando Node.js.
 
 ### 🗄️ SQL
 
-SELECT JOIN GROUP BY HAVING CASE WHEN Subqueries CTEs UNION Agregações
+`SELECT` `JOIN` `GROUP BY` `HAVING` `CASE WHEN` `Subqueries` `CTEs` `UNION` `Agregações`
 
 ### 💾 Banco de Dados
 
@@ -172,7 +184,8 @@ SELECT JOIN GROUP BY HAVING CASE WHEN Subqueries CTEs UNION Agregações
 
 | Área | Foco |
 |:---|:---|
-| 🐍 **Python** | Python avançado e Programação Orientada a Objetos |
+| 🐍 **Python** | Programação Orientada a Objetos e desenvolvimento de aplicações |
+| 🟨 **JavaScript** | Fundamentos, lógica, funções e desenvolvimento com Node.js |
 | 🗄️ **Banco de Dados** | PostgreSQL, SQL e Oracle |
 | 🐧 **Linux** | openSUSE, terminal e administração |
 | 🌐 **Redes** | Fundamentos de redes e infraestrutura |
@@ -188,3 +201,4 @@ SELECT JOIN GROUP BY HAVING CASE WHEN Subqueries CTEs UNION Agregações
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,55:161B22,100:22C55E" />
 
 </div>
+```
